@@ -1,0 +1,12 @@
+déc. 22, 2024 5:34:12 PM utils.FileTransferLoggerSlave log
+INFO: Serveur de stockage dÃ©marrÃ© sur le port 5001
+déc. 22, 2024 5:35:11 PM utils.FileTransferLoggerSlave log
+INFO: Chemin demandÃ© : .\slaveStorage\fichier.txt.part1
+déc. 22, 2024 5:35:11 PM utils.FileTransferLoggerSlave log
+INFO: Chemin demandÃ© : .\slaveStorage\fichier.txt.part2
+déc. 22, 2024 5:35:11 PM utils.FileTransferLoggerSlave log
+INFO: Taille de la partition fichier.txt.part1 : 12
+déc. 22, 2024 5:35:11 PM utils.FileTransferLoggerSlave log
+INFO: Taille de la partition fichier.txt.part2 : 21
+déc. 22, 2024 5:35:25 PM utils.FileTransferLoggerSlave log
+INFO: Partition 1 du fichier ETU003112.docx stockÃ©e

@@ -1,0 +1,12 @@
+déc. 22, 2024 5:34:15 PM utils.FileTransferLoggerServer log
+INFO: Serveur dÃ©marrÃ© sur le port 5000
+déc. 22, 2024 5:35:11 PM utils.FileTransferLoggerServer logError
+SEVERE: Erreur de traitement de la requÃªte client
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readUnsignedShort(DataInputStream.java:346)
+	at java.base/java.io.DataInputStream.readUTF(DataInputStream.java:595)
+	at java.base/java.io.DataInputStream.readUTF(DataInputStream.java:570)
+	at server.Server$ClientHandler.run(Server.java:253)
+
+déc. 22, 2024 5:35:25 PM utils.FileTransferLoggerServer log
+INFO: Slave dÃ©connectÃ©: 127.0.0.1
